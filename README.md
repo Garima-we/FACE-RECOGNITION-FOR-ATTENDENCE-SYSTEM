@@ -15,7 +15,7 @@ This project is an automated attendance tracking system that leverages machine l
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/automated-attendance-system.git
+    git clone https://github.com/Garima-we/automated-attendance-system.git
     ```
 2. Navigate to the project directory:
     ```bash
